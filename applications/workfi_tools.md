@@ -76,8 +76,10 @@ besides serving their main purpose.
 
 ### Contact
 
-- **Contact Name:** ___ Full name of the contact person in your team
-- **Contact Email:** ___ Contact email (e.g. john@duo.com)
+todo: ___ decide whether to provide 1 or multiple contacts
+
+- **Contact Name:** Kir Guzenko
+- **Contact Email:** kee22r@gmail.com
 - **Website:** https://workfi.tools
 
 ### Legal Structure
