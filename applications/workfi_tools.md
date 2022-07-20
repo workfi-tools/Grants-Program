@@ -71,8 +71,12 @@ besides serving their main purpose.
 
 ### Team members
 
-- ___ Name of team leader
-- ___ Names of team members
+- Kir Guzenko (**team leader**, product owner, CTO, smart-contracts developer)
+- Alexander Sirach (busdev, investors relations)
+- Artem Zolochevskii (fullstack, web3, and smart-contracts developer)
+- Yakov (Iakov) Litvin (fullstack, web3, and smart-contracts developer, devops, software analyst)
+- Dmitry Eremin (backend and smart-contracts developer, QA, software analyst)
+- Lev Gavrilov (marketing, community)
 
 ### Contact
 
