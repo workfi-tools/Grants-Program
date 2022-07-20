@@ -63,8 +63,6 @@ and build commercial services on top of them.
 As the decentralized systems are expected to be trustless, the solutions have to be fraud-resistant
 besides serving their main purpose.
 
-> Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
-
 - ___ Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
@@ -171,10 +169,8 @@ ___ [write the whole thing]
 
 ## Future Plans
 
-___ Please include here
-
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- ___ how you intend to use, enhance, promote and support your project in the short term, and
+- ___ the team's long-term plans and intentions in relation to it.
 
 
 ## Additional Information :heavy_plus_sign:
