@@ -15,8 +15,6 @@
 
 ## Project Overview :page_facing_up:
 
-___ If this application is in response to an RFP, please indicate this on the first line of this section.
-
 ### Overview
 
 Please provide the following:
