@@ -17,12 +17,16 @@
 
 ### Overview
 
-Please provide the following:
+WorkFi Tools are open source solutions to boost the WorkFi industry,
+from decentralized freelance platforms to tools for complicated business processes.
+This proposal focuses on the two key subsystems of the WorkFi: booking engine and reputation system for counterparts.
+Such tools can also be suitable for a wide variety of other applications like renting real estate or
+implementing reputation system in decentralized-Uber-like DAOs.
+The implementation is supposed to be a set of smart-contracts for EVM-compatible blockchains like Moonbeam and others.
+todo: ___ learn if Kusama is EVM-compatible.
 
-- ___ If the name of your project is not descriptive, a tag line (one sentence summary).
-- ___ A brief description of your project.
-- ___ An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-- ___ An indication of why your team is interested in creating this project.
+Our team is eager to both create Open Source solutions (which are the subject of this proposal)
+and build commercial projects on top of them (which defines our long-term interest in maintaining the project).
 
 ### Project Details
 
