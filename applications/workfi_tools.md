@@ -48,9 +48,12 @@ Therefore, we ask the teams to submit (where relevant):
 
 ### Ecosystem Fit
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+As there are multiple Substrate EVM-compatible blockchains thanks to Frontier layer,
+with [some specific details](https://docs.moonbeam.network/learn/features/unified-accounts/) in mind,
+Solidity smart-contracts implementation should fit the Substrate ecosystem nicely.
 
-- ___ Where and how does your project fit into the ecosystem?
+> Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+
 - ___ Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 - ___ What need(s) does your project meet?
 - ___ Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
