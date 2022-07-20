@@ -5,10 +5,10 @@
 > Don't remove any of the mandatory parts presented in bold letters or as headlines!
 > Lines starting with a `>` (such as this one) can be removed.
 
-- **Project Name:** ___
-- **Team Name:** ___ Legal name of your team (e.g. Duo)
+- **Project Name:** WorkFi Tools
+- **Team Name:** WorkFi Tools Team
 - **Payment Address:** ___ BTC, Ethereum (USDT/USDC/DAI) or Polkadot/Kusama (aUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI))
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** ___ 1, 2 or 3
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment
 > address above will be your unique identifier during the program. Please keep them safe.*
