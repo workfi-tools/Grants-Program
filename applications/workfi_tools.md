@@ -68,7 +68,7 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 - **Contact Name:** ___ Full name of the contact person in your team
 - **Contact Email:** ___ Contact email (e.g. john@duo.com)
-- **Website:** ___
+- **Website:** https://workfi.tools
 
 ### Legal Structure
 
