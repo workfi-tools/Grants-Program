@@ -52,10 +52,19 @@ As there are multiple Substrate EVM-compatible blockchains thanks to Frontier la
 with [some specific details](https://docs.moonbeam.network/learn/features/unified-accounts/) in mind,
 Solidity smart-contracts implementation should fit the Substrate ecosystem nicely.
 
+The tools that we are building should provide dApp/DAO/solution developers a solid abstraction layer
+so that they can focus more on business logic and spend less time on designing and implementing booking
+and/or reputation systems themselves. As there are many industries involving lending/renting
+(labour, real estate, cars, taxi, manufacturing means, etc) and the need to digitize reputation/trust
+(basically all the services and products that can be provided of different quality), we believe that
+our solutions will be of great utility for other creators. Also, we are going to use them as well
+and build commercial services on top of them.
+
+As the decentralized systems are expected to be trustless, the solutions have to be fraud-resistant
+besides serving their main purpose.
+
 > Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
-- ___ Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- ___ What need(s) does your project meet?
 - ___ Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
