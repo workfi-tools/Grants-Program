@@ -77,6 +77,7 @@ besides serving their main purpose.
 - Yakov (Iakov) Litvin (fullstack, web3, and smart-contracts developer, devops, software analyst)
 - Dmitry Eremin (backend and smart-contracts developer, QA, software analyst)
 - Lev Gavrilov (marketing, community)
+- Vitaliy Ilnitskiy (UX design)
 
 ### Contact
 
@@ -101,15 +102,19 @@ todo: ___ decide whether to provide 1 or multiple contacts
 - https://github.com/<your_organisation>/<project_1>
 - https://github.com/<your_organisation>/<project_2>
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- ___ https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- Kir: https://github.com/enkogu
+- Yakov: https://github.com/YakovL
+- Dmitry: https://github.com/EreminD
+- Artem: https://github.com/azol
 
 ### Team LinkedIn Profiles (if available)
 
-- ___ https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- Alexander: https://www.linkedin.com/in/asirach
+- Dmitry: https://www.linkedin.com/in/ereminD
+- Lev: https://www.linkedin.com/in/lev-gavrilov-354ab4121/
+- Vitaliy: https://www.linkedin.com/in/vitaliy-ilnitskiy-35536538/
 
 ## Development Status :open_book:
 
