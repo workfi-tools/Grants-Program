@@ -56,6 +56,12 @@ presumably Laika, solidity-docgen and some other infrastructure tools.
 As there are multiple Substrate EVM-compatible blockchains thanks to Frontier layer,
 with [some specific details](https://docs.moonbeam.network/learn/features/unified-accounts/) in mind,
 Solidity smart-contracts implementation should fit the Substrate ecosystem nicely.
+The smart-contracts should work correctly at least on Clover Finance, Astar, Parallel Finance, Moonbeam, and Acala.
+
+Moreover, another goal is to research the possibility of cross-chain reputation system, starting from
+(but not limited to) bridging accross Polkadot parachains.
+Also, after implementing contracts in Solidity (with which we have considerable experience), we will also research
+usage of other languages (like ink! for WASM smart-contracts) to make the functionality available as widely as possible.
 
 The tools that we are building should provide dApp/DAO/solution developers a solid abstraction layer
 so that they can focus more on business logic and spend less time on designing and implementing booking
