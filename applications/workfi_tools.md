@@ -35,11 +35,16 @@ Therefore, we ask the teams to submit (where relevant):
 
 - ___ Mockups/designs of any UI components
 - ___ Data models / API specifications of the core functionality
-- ___ An overview of the technology stack to be used
 - ___ Documentation of core components, protocols, architecture, etc. to be deployed
 - ___ PoC/MVP or other relevant prior work or research on the topic
 - ___ What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+
+Tech stack that we are going to use is somewhat standard (with minor choices to be made in the process):
+Solidity for EVM smart-contracts, some parts of OpenZeppelin, Hardhat + Moralis for quicker development,
+Frontier for compatibility with Polkadot parachains,
+Node.js/TypeScript/TypeChain/Mocha/Chai/Jest for autotesting, Solhint/Prettier/Husky/ESLint for good code style,
+presumably Laika, solidity-docgen and some other infrastructure tools.
 
 > Things that shouldn’t be part of the application (see also our [FAQ](../docs/faq.md)):
 > - The (future) tokenomics of your project 
