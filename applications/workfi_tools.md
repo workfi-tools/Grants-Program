@@ -224,7 +224,7 @@ ___ [write the whole thing]
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** ___ Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Web3 Foundation Website (we were looking for grants for open source development).
 
 > Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
