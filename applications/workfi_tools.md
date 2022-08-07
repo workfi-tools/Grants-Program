@@ -133,6 +133,9 @@ We are a team of crypto enthusiast and our interest in this project is driven by
 desire to create something big and useful (WorkFi and tools for it)
 and a goal to build a great commercial product on the top of that.
 These define our long-term commitment to the project.
+This first stage consists of creating libs and infrastructure for WorkFi,
+building community so that we have more feedback and more enterpreneurs start their projects,
+thus boosting the future WorkFi industry.
 
 Our interests are somewhat diverse throughout the team:
 
