@@ -127,6 +127,30 @@ todo: ___ decide whether to provide 1 or multiple contacts
 - Lev: https://www.linkedin.com/in/lev-gavrilov-354ab4121/
 - Vitaliy: https://www.linkedin.com/in/vitaliy-ilnitskiy-35536538/
 
+### Team motivation and commitment
+
+We are a team of crypto enthusiast and our interest in this project is driven by both
+desire to create something big and useful (WorkFi and tools for it)
+and a goal to build a great commercial product on the top of that.
+These define our long-term commitment to the project.
+
+Our interests are somewhat diverse throughout the team:
+
+- Kir, who participated and initialed various DAO and crypto projects since 2016,
+  is mainly interested in creating a great product and industry;
+- Alexander, being a serial tech entrepreneur in SaaS, has been researching DAOs since 2017
+  and is now ready to contribute as he believes we can reimagine the way we work;
+- For Leo, experienced in marketing and community building, this is his first participation in a DAO,
+  and he sees the main value of this project in building a society that effectively shares knowledge in a p2p manner;
+- Vitaliy is designing UI/UX for fintech for over 5 years
+  and considers crypto industry as an exciting area of challenges, more dynamic and full of breakthrough projects;
+- Yakov has experience in crypto projects since the beginning of 2021 and dev experience since 2010 (including
+  open source dev/maintaining), and is interested in DAO both from the product and game theory angles
+- Dmitry, while having experience in dev for crypto, participates in a DAO for the first time.
+  He is sure that the future belongs to distributed systems and wants to take part in shaping of one of these;
+- Artem has over 20 years of experience in dev/devops, maintaining Linux packages, managing open source development
+  and 2 years in crypto. He sees this project as a great opportunity to contribute into blockchain ecosystem.
+
 ## Development Status :open_book:
 
 ___ If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
