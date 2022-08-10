@@ -19,11 +19,9 @@
 
 WorkFi Tools are open source solutions to boost the WorkFi industry,
 from decentralized freelance platforms to tools for complicated business processes.
-This proposal focuses on the two key subsystems of the WorkFi: booking engine and reputation system for counterparts.
-Such tools can also be suitable for a wide variety of other applications like renting real estate or
-implementing reputation system in decentralized-Uber-like DAOs.
+This proposal focuses on one key subsystem of the WorkFi: the reputation system for counterparts.
+It can also be suitable for a wide variety of other applications like decentralized Uber-like DAOs or marketplaces.
 The implementation is supposed to be a set of smart-contracts for EVM-compatible blockchains like Moonbeam and others.
-todo: ___ learn if Kusama is EVM-compatible.
 
 Our team is eager to both create Open Source solutions (which are the subject of this proposal)
 and build commercial projects on top of them (which defines our long-term interest in maintaining the project).
@@ -64,12 +62,11 @@ Also, after implementing contracts in Solidity (with which we have considerable 
 usage of other languages (like ink! for WASM smart-contracts) to make the functionality available as widely as possible.
 
 The tools that we are building should provide dApp/DAO/solution developers a solid abstraction layer
-so that they can focus more on business logic and spend less time on designing and implementing booking
-and/or reputation systems themselves. As there are many industries involving lending/renting
-(labour, real estate, cars, taxi, manufacturing means, etc) and the need to digitize reputation/trust
-(basically all the services and products that can be provided of different quality), we believe that
-our solutions will be of great utility for other creators. Also, we are going to use them as well
-and build commercial services on top of them.
+so that they can focus more on business logic and spend less time on designing and implementing
+a reputation system themselves. As there are many industries that need to digitize reputation/trust
+(basically all the services and products that can be provided of different quality, from dental treatment
+to cars), we believe that our solutions will be of great utility for other creators.
+Also, we are going to use them as well and build commercial services on top of them.
 
 As the decentralized systems are expected to be trustless, the solutions have to be fraud-resistant
 besides serving their main purpose.
@@ -216,9 +213,8 @@ ___ [write the whole thing]
 
 ## Future Plans
 
-- ___ how you intend to use, enhance, promote and support your project in the short term, and
-- ___ the team's long-term plans and intentions in relation to it.
-
+Our future plans include both promoting the reputation system and creating more components for WookFi,
+like Web3 Auth Token, Web3 Certification system, Web3 Booking system and/or others.
 
 ## Additional Information :heavy_plus_sign:
 
