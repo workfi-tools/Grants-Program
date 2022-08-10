@@ -92,10 +92,9 @@ besides serving their main purpose.
 
 ### Contact
 
-todo: ___ decide whether to provide 1 or multiple contacts
-
 - **Contact Name:** Kir Guzenko
 - **Contact Email:** kee22r@gmail.com
+- Additional contacts: Alexander Sirach (As@youscan.io), Lev Gavrilov (lev.gavrilov@gmail.com)
 - **Website:** https://workfi.tools
 
 ### Legal Structure
