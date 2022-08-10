@@ -220,5 +220,3 @@ like Web3 Auth Token, Web3 Certification system, Web3 Booking system and/or othe
 
 **How did you hear about the Grants Program?** Web3 Foundation Website (we were looking for grants for open source development).
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already
-
