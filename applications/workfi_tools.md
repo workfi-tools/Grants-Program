@@ -100,20 +100,35 @@ No legal entity or structure yet.
 
 ### Team's experience
 
-> Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+Projects and products that our dev team members has implemented or contributed to include:
 
-### Team Code Repos
+- Radiant Capital (https://app.radiant.capital, https://github.com/radiant-capital), including smart-contracts and frontend;
+- Ethlend (an early version of Aave, https://github.com/aave);
+- Thetta DAO Framework (https://github.com/Thetta);
+- a (closed source) SDK that unifies interaction with over 40 blockchains
+  (operations like account creation, getting balance, sending coins, and much more);
+- customizations of Blockscout explorer (https://github.com/blockscout/blockscout)
+  for a couple of blockchains deviating from standard EVM ones;
+- an explorer for altcoins (bipcoin, dashcoin, karbowanec, etc), example: https://explorer.bip.mypool.online/;
+- adaption of DeFi Geist sources to another crypto project;
+- maintaining Linux packages, translation/managing of translation of open source projects like XFCE,
+  maintaining other open source software like TiddlyWiki Classic and related projects;
+- various other non crypto-related projects including non-commercial, startups, SMB and enterprises,
+  doing web (fullstack), mobile, native apps development, devops etc.
 
-- ___ https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+All dev team members have 7-20 years of experience. Github accounts:
 
 - Kir: https://github.com/enkogu
 - Yakov: https://github.com/YakovL
 - Dmitry: https://github.com/EreminD
 - Artem: https://github.com/azol
+
+Our team has a strong set of expertise including operations, product and marketing:
+
+* Lev worked for over 10 years in the largest advertising agencies: BBDO, OMD, and ADV,
+  wrote and implemented advertising strategies for brands such as Bayer and Renault,
+  developed new methods and approaches to attract new customers as an account director.
+____
 
 ### Team LinkedIn Profiles (if available)
 
@@ -138,13 +153,13 @@ Our interests are somewhat diverse throughout the team:
   is mainly interested in creating a great product and industry;
 - Alexander, being a serial tech entrepreneur in SaaS, has been researching DAOs since 2017
   and is now ready to contribute as he believes we can reimagine the way we work;
-- For Leo, experienced in marketing and community building, this is his first participation in a DAO,
+- For Lev, experienced in marketing and community building (over 10 years in the largest advertising agencies), this is his first participation in a DAO,
   and he sees the main value of this project in building a society that effectively shares knowledge in a p2p manner;
 - Vitaliy is designing UI/UX for fintech for over 5 years
   and considers crypto industry as an exciting area of challenges, more dynamic and full of breakthrough projects;
 - Yakov has experience in crypto projects since the beginning of 2021 and dev experience since 2010 (including
   open source dev/maintaining), and is interested in DAO both from the product and game theory angles
-- Dmitry, while having experience in dev for crypto, participates in a DAO for the first time.
+- Dmitry, while having experience in dev for crypto (and overall 7 years in fintech as QA, dev and DevOps), participates in a DAO for the first time.
   He is sure that the future belongs to distributed systems and wants to take part in shaping of one of these;
 - Artem has over 20 years of experience in dev/devops, maintaining Linux packages, managing open source development
   and 2 years in crypto. He sees this project as a great opportunity to contribute into blockchain ecosystem.
