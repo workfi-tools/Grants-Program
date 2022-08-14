@@ -102,15 +102,20 @@ No legal entity or structure yet.
 
 Projects and products that our dev team members has implemented or contributed to include:
 
-- Radiant Capital (https://app.radiant.capital, https://github.com/radiant-capital), including smart-contracts and frontend;
-- Ethlend (an early version of Aave, https://github.com/aave);
-- Thetta DAO Framework (https://github.com/Thetta);
-- a (closed source) SDK that unifies interaction with over 40 blockchains
-  (operations like account creation, getting balance, sending coins, and much more);
-- customizations of Blockscout explorer (https://github.com/blockscout/blockscout)
-  for a couple of blockchains deviating from standard EVM ones;
+- as K-22 outsource team:
+  - Radiant Capital (https://app.radiant.capital, https://github.com/radiant-capital), including smart-contracts and frontend;
+  - a (closed source) TypeScript SDK that unifies interaction with over 40 blockchains
+    (operations like account creation, getting balance, sending coins, tokens, and much more);
+  - customizations of Blockscout explorer (https://github.com/blockscout/blockscout)
+    for a couple of blockchains deviating from standard EVM ones (critical backend bits + frontend);
+- in the Chain.Cloud team (with Kir as co-founder):
+  - Ethlend (an early version of Aave, https://github.com/aave, implemented on outsource);
+  - more than 40 finished outsource projects for 2 years;
+  - Thetta DAO Framework (https://github.com/Thetta, with Kir as co-founder);
+- Anytype.io (https://github.com/anytypeio);
 - an explorer for altcoins (bipcoin, dashcoin, karbowanec, etc), example: https://explorer.bip.mypool.online/;
 - adaption of DeFi Geist sources to another crypto project;
+- O0tie, a p2p matching service implementing some aspects of reputation system (didn't get into production due to a force majeure);
 - maintaining Linux packages, translation/managing of translation of open source projects like XFCE,
   maintaining other open source software like TiddlyWiki Classic and related projects;
 - various other non crypto-related projects including non-commercial, startups, SMB and enterprises,
