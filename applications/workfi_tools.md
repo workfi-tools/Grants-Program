@@ -133,6 +133,9 @@ Our team has a strong set of expertise including operations, product and marketi
 * Lev worked for over 10 years in the largest advertising agencies: BBDO, OMD, and ADV,
   wrote and implemented advertising strategies for brands such as Bayer and Renault,
   developed new methods and approaches to attract new customers as an account director.
+* Vitaliy has more than 5 years of experience designing UI/UX for fintech, including VTB Bank,
+  Alfa-Bank and several others, Grohe, Coca-Cola (products for employee training),
+  robobattle.games and other crypto projects.
 ____
 
 ### Team LinkedIn Profiles (if available)
