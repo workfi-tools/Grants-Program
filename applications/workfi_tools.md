@@ -241,6 +241,48 @@ For each milestone,
 
 ...
 
+### Milestone 1 — Reputation system
+
+- **Estimated duration:** ? month
+- **FTE:**  ?
+- **Costs:** ?,000 USD
+
+Protocol and MVP.
+
+### Milestone 2 — Court system and P2P
+
+- **Estimated duration:** ? month
+- **FTE:**  ?
+- **Costs:** ?,000 USD
+
+Protocol and MVP.
+
+### Milestone 3 — Certification
+
+- **Estimated duration:** ? month
+- **FTE:**  ?
+- **Costs:** ?,000 USD
+
+Protocol and MVP.
+
+### Milestone 4 — SDK
+
+- **Estimated duration:** ? month
+- **FTE:**  ?
+- **Costs:** ?,000 USD
+
+- Advanced votings
+- Booking
+- SDK
+- Integrations
+
+### Milestone 5 — Web3 token access
+
+- **Estimated duration:** ? month
+- **FTE:**  ?
+- **Costs:** ?,000 USD
+
+Protocol and MVP.
 
 ## Future Plans
 
