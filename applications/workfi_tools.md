@@ -72,18 +72,13 @@ There are some similar known projects:
 - Kleros, Web: https://kleros.io
 - Orange, Web: https://www.orangeprotocol.io
 
-Your Justice is a conflict reolving system. WorkFi Tools includes conflict resolving as a module as well,
-but it's a larger system focused on reputation.
+Your Justice is a conflict reolving system. WorkFi Tools includes conflict resolving as a module as well, but it's a larger system focused on reputation.
 
-Kleros' value proposition is decentralized arbitration for dispute resolving;
-our vision is a more general as we consider dispute resolution a part of reputation system.
-A solution like Kleros might be used as a submodule of our system.
+Kleros' value proposition is decentralized arbitration for dispute resolving; our vision is a more general as we consider dispute resolution a part of reputation system. A solution like Kleros might be used as a submodule of our system.
 
 Orange doesn't provide means to create reputation (via voting or other means),
 it only helps with aggregating on-chain data to interpret facts and behavior as reputation aspects.
-While theoretically this can be used for WorkFi, this makes each service that reads or modifies one's reputation
-to reinvent the wheel. We believe that ready-to-use reputation aspects and procedures for their modification
-will be much more helpful for the industry
+While theoretically this can be used for WorkFi, this makes each service that reads or modifies one's reputation to reinvent the wheel. We believe that ready-to-use reputation aspects and procedures for their modification will be much more helpful for the industry
 
 ## Team :busts_in_silhouette:
 
