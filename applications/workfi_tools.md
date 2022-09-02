@@ -62,10 +62,6 @@ Also, we are going to use them as well and build commercial services on top of t
 As the decentralized systems are expected to be trustless, the solutions have to be fraud-resistant
 besides serving their main purpose.
 
-> - Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
->  - If so, how is your project different?
->  - If not, are there similar projects in related ecosystems?
-
 There are some similar known projects:
 
 - Your Justice, Web: https://www.yourjustice.life, https://yj.life
