@@ -173,7 +173,7 @@ All dev team members have 7-20 years of experience. Github accounts:
 - Dmitry: https://github.com/EreminD
 - Artem: https://github.com/azol
 
-### Team LinkedIn Profiles (if available)
+### Team LinkedIn Profiles
 
 - Alexander: https://www.linkedin.com/in/asirach
 - Dmitry: https://www.linkedin.com/in/ereminD
