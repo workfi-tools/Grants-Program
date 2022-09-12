@@ -14,7 +14,7 @@ This proposal focuses on one key subsystem of the WorkFi: the reputation system 
 It can also be suitable for a wide variety of other applications like decentralized Uber-like DAOs or marketplaces.
 The implementation is supposed to be a set of smart-contracts for EVM-compatible blockchains like Moonbeam and others.
 
-Our team is eager to both create Open Source solutions (which are the subject of this proposal)
+Our team is eager to create Open Source solutions (which are the subject of this proposal)
 and build commercial projects on top of them (which defines our long-term interest in maintaining the project).
 
 ### Project Details
@@ -23,7 +23,7 @@ and build commercial projects on top of them (which defines our long-term intere
 
 #### Guarantee
 
-Guarantee of the fact that the invited user fulfills his obligations. This part affects both: the inviter's rating
+Guarantee the fact that the invited user fulfills his obligations. This part affects both: the inviter's rating
 as well as the invited user's rating.
 
 #### Responsible invites
@@ -38,7 +38,7 @@ of his ratings for users and for his own rating level.
 
 #### Attributive rates
 
-Changes in reputation indicators depending on the user's competencies (software, hard skills, area of knowledge and work).
+Changes in reputation indicators depend on the user's competencies (software, hard skills, area of knowledge and work).
 
 #### Rates typology
 
@@ -55,7 +55,7 @@ System of protocols for giving feedback to community users according to their ha
 
 #### Community contribution
 
-Community development system, which includes ways to motivate and increase the level of user involvement
+Community development system which includes ways to motivate and increase the level of user involvement
 and contribution to the community.
 
 #### Proof of commission
@@ -64,8 +64,9 @@ Algorithm for verifying user actions, including resistance to scam and fraudulen
 
 #### Anti fraud
 
-Analysis and evaluation of use cases in which users can fraudulently raise their reputation, create bots;
+Analysis and evaluation of use cases in which users can fraudulently raise their reputation and create bots;
 solution development towards what changes should be implemented in the protocol to prevent such actions.
+
 #### Reputation providers
 
 Interaction of a service (platform) and several reputation providers, as well as ways to aggregate information
@@ -79,17 +80,17 @@ economic trends within services.
 
 The relationship between changes in the rating of one user and the impact of these changes on the ratings
 of other users - depending on the interaction between these particular users; as well as different options
-for motivating and managing reputation indicators within services
+for motivating and managing reputation indicators within services.
 
 
 #### P2P verification
 
-System to determine which operations can be delegated for verification by the community itself
-(KYC, diploma, level of knowledge, subjective assessment and rating).
+A system to determine which operations can be delegated for verification by the community itself
+(KYC, diploma, level of knowledge, subjective assessment, and rating).
 
 #### Dispute resolution
 
-System of involving qualified competent users to disputable cases in order to resolve conflict situations
+A system of involving qualified competent users in disputable cases to resolve conflict situations
 (appeal, dispute, controversial cases).
 
 #### Court system
@@ -99,7 +100,7 @@ The main focus is on the values of the community.
 
 #### Tech stack
 
-Tech stack that we are going to use is somewhat standard (with minor choices to be made in the process):
+The tech stack that we are going to use is somewhat standard (with little choices to be made in the process):
 Solidity for EVM smart-contracts, some parts of OpenZeppelin, Hardhat + Moralis for quicker development,
 Frontier for compatibility with Polkadot parachains,
 Node.js/TypeScript/TypeChain/Mocha/Chai/Jest for autotesting, Solhint/Prettier/Husky/ESLint for good code style,
@@ -113,14 +114,14 @@ Solidity smart-contracts implementation should fit the Substrate ecosystem nicel
 The smart-contracts should work correctly at least on Clover Finance, Astar, Parallel Finance, Moonbeam, and Acala.
 
 Moreover, another goal is to research the possibility of cross-chain reputation system, starting from
-(but not limited to) bridging accross Polkadot parachains.
+(but not limited to) bridging across Polkadot parachains.
 Also, after implementing contracts in Solidity (with which we have considerable experience), we will also research
-usage of other languages (like ink! for WASM smart-contracts) to make the functionality available as widely as possible.
+the usage of other languages (like ink! for WASM smart-contracts) to make the functionality available as widely as possible.
 
-The tools that we are building should provide dApp/DAO/solution developers a solid abstraction layer
+The tools that we are building should provide dApp/DAO/solution developers with a solid abstraction layer
 so that they can focus more on business logic and spend less time on designing and implementing
-a reputation system themselves. As there are many industries that need to digitize reputation/trust
-(basically all the services and products that can be provided of different quality, from dental treatment
+a reputation system themselves. As many industries need to digitize reputation/trust
+(basically, all the services and products that can be provided of different quality, from dental treatment
 to cars), we believe that our solutions will be of great utility for other creators.
 Also, we are going to use them as well and build commercial services on top of them.
 
@@ -133,20 +134,20 @@ There are some similar known projects:
 - Kleros, Web: https://kleros.io
 - Orange, Web: https://www.orangeprotocol.io
 
-Your Justice is a conflict reolving system. WorkFi Tools includes conflict resolving as a module as well, but it's a larger system focused on reputation.
+Your Justice is a conflict resolving system. WorkFi Tools includes conflict resolving as a module as well, but it's a more extensive system focused on reputation.
 
-Kleros' value proposition is decentralized arbitration for dispute resolving; our vision is a more general as we consider dispute resolution a part of reputation system. A solution like Kleros might be used as a submodule of our system.
+Kleros' value proposition is decentralized arbitration for dispute resolution; our vision is more general as we consider dispute resolution a part of reputation system. A solution like Kleros might be used as a submodule of our system.
 
-Orange doesn't provide means to create reputation (via voting or other means),
-it only helps with aggregating on-chain data to interpret facts and behavior as reputation aspects.
-While theoretically this can be used for WorkFi, this makes each service that reads or modifies one's reputation to reinvent the wheel. We believe that ready-to-use reputation aspects and procedures for their modification will be much more helpful for the industry
+Orange doesn't provide means to create reputation (via voting or other means).
+It only helps with aggregating on-chain data to interpret facts and behavior as reputation aspects.
+While theoretically, this can be used for WorkFi, this makes each service that reads or modifies one's reputation to reinvent the wheel. We believe that ready-to-use reputation aspects and procedures for their modification will be much more helpful for the industry.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
 - Kir Guzenko (**team leader**, product owner, CTO, smart-contracts developer)
-- Alexander Sirach (busdev, investors relations)
+- Alexander Sirach (bizdev, IR)
 - Artem Zolochevskii (fullstack, web3, and smart-contracts developer)
 - Yakov (Iakov) Litvin (fullstack, web3, and smart-contracts developer, devops, software analyst)
 - Dmitry Eremin (backend and smart-contracts developer, QA, software analyst)
@@ -169,7 +170,7 @@ No legal entity or structure yet.
 
 ### Team's experience
 
-Projects and products that our dev team members has implemented or contributed to include:
+Projects and products that our dev team members have implemented or contributed to include:
 
 - as K-22 outsource team:
   - Radiant Capital (https://app.radiant.capital, https://github.com/radiant-capital), including smart-contracts and frontend;
@@ -187,11 +188,12 @@ Projects and products that our dev team members has implemented or contributed t
 - O0tie, a p2p matching service implementing some aspects of reputation system (didn't get into production due to a force majeure);
 - maintaining Linux packages, translation/managing of translation of open source projects like XFCE,
   maintaining other open source software like TiddlyWiki Classic and related projects;
-- various other non crypto-related projects including non-commercial, startups, SMB and enterprises,
+- various other non crypto-related projects, including non-commercial, startups, SMB and enterprises,
   doing web (fullstack), mobile, native apps development, devops etc.
 
-Our team has a strong set of expertise including operations, product and marketing:
+Our team has a robust set of expertise including operations, product and marketing:
 
+* Alexander has a proven track record building a tech company from 2 people to a market leader.
 * Lev worked for over 10 years in the largest advertising agencies: BBDO, OMD, and ADV,
   wrote and implemented advertising strategies for brands such as Bayer and Renault,
   developed new methods and approaches to attract new customers as an account director.
@@ -201,24 +203,24 @@ Our team has a strong set of expertise including operations, product and marketi
 
 #### Team motivation and commitment
 
-We are a team of crypto enthusiast and our interest in this project is driven by both
-desire to create something big and useful (WorkFi and tools for it)
-and a goal to build a great commercial product on the top of that.
+We are a team of crypto enthusiasts, and our interest in this project is driven by both
+desire to create something big and valuable (WorkFi and tools for it)
+and a goal to build a great commercial product on top of that.
 These define our long-term commitment to the project.
 This first stage consists of creating libs and infrastructure for WorkFi,
-building community so that we have more feedback and more enterpreneurs start their projects,
+building community so that we have more feedback and more entrepreneurs start their projects,
 thus boosting the future WorkFi industry.
 
 Our interests are somewhat diverse throughout the team:
 
-- Kir, who participated and initialed various DAO and crypto projects since 2016,
+- Kir, who participated in and initialed various DAO and crypto projects since 2016,
   is mainly interested in creating a great product and industry;
 - Alexander, being a serial tech entrepreneur in SaaS, has been researching DAOs since 2017
   and is now ready to contribute as he believes we can reimagine the way we work;
 - For Lev, experienced in marketing and community building (over 10 years in the largest advertising agencies), this is his first participation in a DAO,
-  and he sees the main value of this project in building a society that effectively shares knowledge in a p2p manner;
-- Vitaliy is designing UI/UX for fintech for over 5 years
-  and considers crypto industry as an exciting area of challenges, more dynamic and full of breakthrough projects;
+  and he sees the principal value of this project in building a society that effectively shares knowledge in a p2p manner;
+- Vitaliy has been designing UI/UX for fintech for over 5 years
+  and considers the crypto industry as an exciting area of challenges, more dynamic, and full of breakthrough projects;
 - Yakov has experience in crypto projects since the beginning of 2021 and dev experience since 2010 (including
   open source dev/maintaining), and is interested in DAO both from the product and game theory angles
 - Dmitry, while having experience in dev for crypto (and overall 7 years in fintech as QA, dev and DevOps), participates in a DAO for the first time.
